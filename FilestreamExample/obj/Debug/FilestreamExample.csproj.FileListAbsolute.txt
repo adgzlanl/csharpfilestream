@@ -1,0 +1,9 @@
+C:\Users\falkenmann\source\repos\FilestreamExample\FilestreamExample\obj\Debug\FilestreamExample.csprojAssemblyReference.cache
+C:\Users\falkenmann\source\repos\FilestreamExample\FilestreamExample\obj\Debug\FilestreamExample.Form1.resources
+C:\Users\falkenmann\source\repos\FilestreamExample\FilestreamExample\obj\Debug\FilestreamExample.Properties.Resources.resources
+C:\Users\falkenmann\source\repos\FilestreamExample\FilestreamExample\obj\Debug\FilestreamExample.csproj.GenerateResource.cache
+C:\Users\falkenmann\source\repos\FilestreamExample\FilestreamExample\obj\Debug\FilestreamExample.csproj.CoreCompileInputs.cache
+C:\Users\falkenmann\source\repos\FilestreamExample\FilestreamExample\bin\Debug\FilestreamExample.exe
+C:\Users\falkenmann\source\repos\FilestreamExample\FilestreamExample\bin\Debug\FilestreamExample.pdb
+C:\Users\falkenmann\source\repos\FilestreamExample\FilestreamExample\obj\Debug\FilestreamExample.exe
+C:\Users\falkenmann\source\repos\FilestreamExample\FilestreamExample\obj\Debug\FilestreamExample.pdb
